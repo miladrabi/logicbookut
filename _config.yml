@@ -20,8 +20,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: # your domain
-baseurl:
+url: miladrabi.github.io # your domain
+baseurl: /logicbookut
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
