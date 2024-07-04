@@ -1,6 +1,5 @@
 # Site settings
 
-source: src
 title: کتاب منطق فارسی # site title
 description: >- # site description
 lang: fa # default lang
@@ -21,8 +20,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://miladrabi.github.io" # your domain
-baseurl: "/logicbookut"
+url: # your domain
+baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:

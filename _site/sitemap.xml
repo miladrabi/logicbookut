@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/simorq/</loc>
-<lastmod>2020-08-07T09:58:47+04:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/tlp/</loc>
-<lastmod>2020-09-07T23:58:47+04:30</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/toc</loc>
 </url>
 <url>
